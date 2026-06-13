@@ -8,6 +8,10 @@
 
 O **Lauren Dashboard** é um painel web personalizado que centraliza as ferramentas de produtividade do dia a dia em uma interface elegante e interativa. Com integração ao ecossistema Google via OAuth 2.0, o dashboard permite gerenciar tarefas e compromissos diretamente pela tela, sem precisar alternar entre vários apps.
 
+## Screenshot
+
+![Dashboard](screenshot.png)
+
 ---
 
 ## 🚀 Funcionalidades
@@ -106,3 +110,11 @@ Este projeto foi criado com auxílio de **IA generativa (Vibecoding)** durante o
 
 Feito com 💙 por **Lauren** — 2026  
 Curso: [Sprint IA no Trabalho · PrograMaria](https://www.programaria.org)
+
+## Contato
+
+📧 E-mail: lauren_004@hotmail.com
+
+💼 LinkedIn: [Lauren Gularte Pereira](https://www.linkedin.com/in/lauren-gularte-pereira/)
+
+🌐 Projeto online: https://lauren-gularte.github.io/Meu-Dashboard-PrograMaria-2026/
