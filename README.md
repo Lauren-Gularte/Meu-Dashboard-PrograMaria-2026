@@ -113,7 +113,7 @@ Curso: [Sprint IA no Trabalho · PrograMaria](https://www.programaria.org)
 
 ## Contato
 
-📧 E-mail: lauren_004@hotmail.com
+📧 E-mail: lauren.gularte@outlook.com
 
 💼 LinkedIn: [Lauren Gularte Pereira](https://www.linkedin.com/in/lauren-gularte-pereira/)
 
